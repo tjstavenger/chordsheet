@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_chordsheet_transpose"
+        android:title="@string/transpose"/>
+    <item
+        android:id="@+id/menu_chordpro_title"
+        android:title="@string/chordpro_title"/>
+    <item
+        android:id="@+id/menu_chordpro_subtitle"
+        android:title="@string/chordpro_subtitle"/>
+    <item
+        android:id="@+id/menu_chordpro_chord"
+        android:title="@string/chordpro_chord"/>
+    <item
+        android:id="@+id/menu_chordpro_chorus"
+        android:title="@string/chordpro_chorus"/>
+    <item
+        android:id="@+id/menu_chordpro_comment"
+        android:title="@string/chordpro_comment"/>
+    <item
+        android:id="@+id/menu_chordpro_comment_italic"
+        android:title="@string/chordpro_comment_italic"/>
+    <item
+        android:id="@+id/menu_chordpro_tab"
+        android:title="@string/chordpro_tab"/>
+    
+</menu>
