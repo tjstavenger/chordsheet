@@ -1,0 +1,67 @@
+body {
+	margin: 5px;
+	-webkit-column-gap: 10px;
+	column-gap: 10px;
+}
+
+.chord {
+	white-space: pre;
+}
+
+.chord-chart { 
+	margin-top: 20px; 
+}
+
+.chorus {
+	border-left: thick solid black;
+	padding-left: 5px;
+}
+
+.comment {
+	font-size: small;
+}
+
+.comment-italic {
+	text-size: small;
+	font-style: italic;
+}
+
+.header {
+
+}
+
+.line {
+	width: 100%;
+	display: inline-block;
+}
+
+.lyric {
+	white-space: pre;
+}
+
+.subtitle { 
+	font-size: medium; 
+	font-style: italic;
+	text-align: center; 
+}
+
+.textWidth {
+	display: inline-block;
+}
+
+.title { 
+	font-size: large; 
+	font-weight: bold; 
+	text-align: center;
+	/*display: none;
+	visibility: hidden;*/
+}
+
+.word {
+	float: left;
+	white-space: pre;
+}
+
+.word-fragment {
+	float: left;
+}	

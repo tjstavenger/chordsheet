@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChordSheet</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_chordsheet_view">Chord Sheet</string>
+    <string name="title_activity_set_edit">Set</string>
+    <string name="title_activity_edit_chord_sheet_acivity">Edit Chord Sheet</string>
+    <string name="sort">Sort</string>
+    <string name="edit">Edit</string>
+    <string name="export">Export</string>
+    <string name="remove">Remove</string>
+    <string name="create_set">Create Set</string>
+    <string name="add_to_set">Add to Set</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_set">New Set</string>
+    <string name="new_set_name">New Set Name</string>
+    <string name="create_chordsheet">Create Song</string>
+    <string name="new_chordsheet_title">New Song Title</string>
+    <string name="transpose">Transpose</string>
+    <string name="chordpro_title">{t:}</string>
+    <string name="chordpro_subtitle">{st:}</string>
+    <string name="chordpro_chord">[]</string>
+	<string name="chordpro_chorus">{soc}{eoc}</string>
+    <string name="chordpro_comment">{c:}</string>
+    <string name="chordpro_comment_italic">{cis:}</string>
+    <string name="chordpro_tab">{sot}{eot}</string>
+    <string name="original_key">Original Key</string>
+    <string name="transposed_key">Transposed Key</string>
+    
+    <string-array name="major_chords">
+        <item>C</item>
+        <item>Db</item>
+        <item>D</item>
+        <item>Eb</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>Ab</item>
+        <item>A</item>
+        <item>Bb</item>
+        <item>B</item>
+    </string-array>
+    
+    <string-array name="minor_chords">
+        <item>Cm</item>
+        <item>C#m</item>
+        <item>Dm</item>
+        <item>Ebm</item>
+        <item>Em</item>
+        <item>Fm</item>
+        <item>F#m</item>
+        <item>Gm</item>
+        <item>G#m</item>
+        <item>Am</item>
+        <item>Bbm</item>
+        <item>Bm</item>
+    </string-array>
+	
+</resources>

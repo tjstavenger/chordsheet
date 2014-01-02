@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_create_chordsheet"
+        android:showAsAction="ifRoom"
+        android:title="@string/create_chordsheet"/>
+    <item
+        android:id="@+id/menu_create_set"
+        android:showAsAction="ifRoom"
+        android:title="@string/create_set"/>
+    
+</menu>
